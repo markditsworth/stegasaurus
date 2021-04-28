@@ -1,3 +1,7 @@
+/*
+Copyright (c) 2021 Mark Ditsworth (@markditsworth)
+Copyright (c) 2018 Rafael Passos (@Auyer)
+*/
 package main
 
 import (
